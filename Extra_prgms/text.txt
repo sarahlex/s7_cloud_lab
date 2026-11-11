@@ -1,0 +1,3 @@
+Write a spark program to count and list the palindrome words in a text document.
+
+Write a python program with GUI to implement multi user chat where each word sent by the clients should be reversed when received by others.
